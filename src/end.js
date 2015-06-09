@@ -1,1 +1,4 @@
-})();
+}
+
+module.exports = addProjectionToD3;
+
